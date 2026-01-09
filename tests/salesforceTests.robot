@@ -38,7 +38,7 @@ Delete Salesforce Record Test Case
     Log To Console              ${token}
 
     ${ACCESS_TOKEN}=            Set Variable                ${token}
-    ${RECORD_I}=                Set Variable                00UgL000001p6HJUAY
+    ${RECORD_I}=                Set Variable                00UgL000001pXJ7UAM
 
     Delete Salesforce Record    ${ACCESS_TOKEN}             ${domain}                 ${RECORD_I}
 
