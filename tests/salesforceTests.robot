@@ -7,12 +7,7 @@ Library                         Collections
 Library                         QForce
 Library                         RequestsLibrary
 Suite Setup                     Setup Browser
-Suite Teardown                  End suite
-
-*** Variables ***
-${domain}                       https://orgfarm-44504bfc61-dev-ed.develop.my.salesforce.com
-${Id}                           3MVG9dAEux2v1sLvmweHOWw6SqQNB0Vw.NQY5eiqmqlHCOjHCpI.d8deX3X1dnTO_e4nMZoUhgmJl576TJ4ka
-${secretkey}                    61A7063A928257E2E371E92759F0E5ADF5696B184611FE572CC0F38F39A9C114
+Suite Teardown                  End suite                  
 
 
 *** Test Cases ***
