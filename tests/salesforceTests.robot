@@ -12,6 +12,8 @@ Suite Teardown                  End suite
 
 *** Test Cases ***
 
+
+
     ## Completed
 
 Close All Console Tabs Test Case
@@ -27,6 +29,7 @@ Select List View Test Case
     LaunchApp                   Sales
     ClickText                   Accounts
     Select List View            New This Week
+    ## update this as per URLs
 
 
     ## In Progress
